@@ -61,3 +61,12 @@ Ensure Python 3.12+ is installed.
 Install dependencies:
 
 Open notebooks/main_project.ipynb in VS Code or Jupyter to view the full execution, plots, and results.
+##  Project Video Demonstration
+Check out the full walkthrough of this project, including code execution and result analysis:
+[Watch the Video on YouTube](https://youtu.be/c72WmdWD-vI)
+
+
+##  Interactive Google Colab Notebook
+You can run this project directly in your browser without any setup using the link below:
+[Open in Google Colab](https://colab.research.google.com/drive/1MZWCL1F8bLIaqVzGfcHcJ9_rKbCwUzOV?usp=sharing)
+
